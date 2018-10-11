@@ -1,1 +1,1 @@
-# Machine-Learning-meet-Business-Intelligence-Uni-Project
+# Machine-Learning-meets-Business-Intelligence-Uni-Project
