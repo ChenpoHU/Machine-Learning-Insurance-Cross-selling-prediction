@@ -5,5 +5,5 @@
 ## Näive Bayes
 ## SVM
 ## Decision Trees 
-## Bossting 
+## Boosting 
 ## K neighbours 
